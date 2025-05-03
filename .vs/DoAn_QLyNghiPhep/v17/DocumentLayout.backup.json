@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\lenovo\\desktop\\doanhtqlnghiphep\\presentationlayer\\folderemployee\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|c:\\users\\lenovo\\desktop\\doanhtqlnghiphep\\datatransferobject\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datatransferobject\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadminleavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadminleavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadminleavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadminleavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderemployee\\frmemployeedky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployeedky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderemployee\\frmemployeedky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployeedky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderemployee\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datalayer\\leaverequestdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\leaverequestdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderemployee\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datatransferobject\\leaveinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\leaveinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datatransferobject\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datalayer\\leavetypedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\leavetypedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datatransferobject\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9F515-C7FD-44E7-81AF-35E1014980E4}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadminthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadminthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadmindanhsachnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadmindanhsachnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\businesslayer\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\businesslayer\\leavetypebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\leavetypebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\datalayer\\leaveinfodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF6FD20-8E62-462B-A9B7-C8F8F9A5F50E}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\leaveinfodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderemployee\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderemployee\\frmemployeedky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployeedky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadmindanhsachnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadmindanhsachnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\businesslayer\\accountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\accountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\businesslayer\\leaverequestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\leaverequestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderadmin\\frmadminthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderadmin\\frmadminthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\businesslayer\\leaveinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27009D-676F-4097-A988-0DE3265CDEEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\leaveinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133BFB0-1104-4E08-ADCE-C5170559F602}|Solution Items{F133BFB0-1104-4E08-ADCE-C5170559F602}|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\sp_GetLeaveInfoEmail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F133BFB0-1104-4E08-ADCE-C5170559F602}|Solution Items{F133BFB0-1104-4E08-ADCE-C5170559F602}|solutionrelative:sp_GetLeaveInfoEmail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\folderemployee\\frmemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\folderemployee\\frmemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071166C-3174-4450-8228-AE309F084247}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDuyet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAdminDashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:20:54.565Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAdminDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs",
+              "RelativeToolTip": "PresentationLayer\\folderAdmin\\frmAdminDashBoard.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:54:35.665Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmEmployeeDKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:27:34.489Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmEmployeeDKy.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs",
+              "RelativeToolTip": "PresentationLayer\\folderEmployee\\frmEmployeeDKy.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:17:44.615Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployee.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployee.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:21:50.797Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEmployeeDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs*",
+              "RelativeToolTip": "PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:48:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\DataProvider.cs",
+              "RelativeToolTip": "DataLayer\\DataProvider.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAlwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:48:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\LeaveTypeDTO.cs",
+              "RelativeDocumentMoniker": "DataTransferObject\\LeaveTypeDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\LeaveTypeDTO.cs",
+              "RelativeToolTip": "DataTransferObject\\LeaveTypeDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:46:46.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdminLeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs",
+              "RelativeToolTip": "PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:51:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAdminLeaveType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminLeaveType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:37:11.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdmin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:28:27.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\LeaveRequestDTO.cs",
+              "RelativeDocumentMoniker": "DataTransferObject\\LeaveRequestDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\LeaveRequestDTO.cs",
+              "RelativeToolTip": "DataTransferObject\\LeaveRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:57:04.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmEmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs [Design]*",
+              "RelativeToolTip": "PresentationLayer\\folderEmployee\\frmEmployeeDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:31:15.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DataTransferObject\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\EmployeeDTO.cs",
+              "RelativeToolTip": "DataTransferObject\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:59:55.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaveRequestDL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\LeaveRequestDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LeaveRequestDL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\LeaveRequestDL.cs",
+              "RelativeToolTip": "DataLayer\\LeaveRequestDL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:57:23.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\LeaveInfoDTO.cs",
+              "RelativeDocumentMoniker": "DataTransferObject\\LeaveInfoDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\LeaveInfoDTO.cs",
+              "RelativeToolTip": "DataTransferObject\\LeaveInfoDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:09:12.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\EmailService.cs",
+              "RelativeDocumentMoniker": "DataTransferObject\\EmailService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataTransferObject\\EmailService.cs",
+              "RelativeToolTip": "DataTransferObject\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:21:01.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveTypeDL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\LeaveTypeDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LeaveTypeDL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\LeaveTypeDL.cs",
+              "RelativeToolTip": "DataLayer\\LeaveTypeDL.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:24:46.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAdminThongke.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminThongke.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminThongke.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminThongke.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminThongke.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:38:39.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmAdminDanhSachNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:56:32.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\EmployeeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\EmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:55:34.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LeaveTypeBL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\LeaveTypeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\LeaveTypeBL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\LeaveTypeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\LeaveTypeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:00:07.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LeaveInfoDL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\LeaveInfoDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LeaveInfoDL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\DataLayer\\LeaveInfoDL.cs",
+              "RelativeToolTip": "DataLayer\\LeaveInfoDL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:09:52.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdmin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdmin.cs",
+              "RelativeToolTip": "PresentationLayer\\folderAdmin\\frmAdmin.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA0wF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:48:26.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployee.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployee.cs",
+              "RelativeToolTip": "PresentationLayer\\folderEmployee\\frmEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:06:05.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmEmployeeDKy.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDKy.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployeeDKy.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployeeDKy.Designer.cs",
+              "RelativeToolTip": "PresentationLayer\\folderEmployee\\frmEmployeeDKy.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:17:44.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmAdminDanhSachNV.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs",
+              "RelativeToolTip": "PresentationLayer\\folderAdmin\\frmAdminDanhSachNV.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAEwJYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:10:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountBL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\AccountBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\AccountBL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\AccountBL.cs",
+              "RelativeToolTip": "BusinessLayer\\AccountBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:02:47.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LeaveRequestBL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\LeaveRequestBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\LeaveRequestBL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\LeaveRequestBL.cs",
+              "RelativeToolTip": "BusinessLayer\\LeaveRequestBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:00:42.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmAdminThongke.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminThongke.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderAdmin\\frmAdminThongke.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminThongke.cs",
+              "RelativeToolTip": "PresentationLayer\\folderAdmin\\frmAdminThongke.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:48:39.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:22:37.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LeaveInfoBL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\LeaveInfoBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\LeaveInfoBL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\BusinessLayer\\LeaveInfoBL.cs",
+              "RelativeToolTip": "BusinessLayer\\LeaveInfoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:08:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmEmployee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\folderEmployee\\frmEmployee.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\folderEmployee\\frmEmployee.Designer.cs",
+              "RelativeToolTip": "PresentationLayer\\folderEmployee\\frmEmployee.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:29:44.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "sp_GetLeaveInfoEmail.sql",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\sp_GetLeaveInfoEmail.sql",
+              "RelativeDocumentMoniker": "sp_GetLeaveInfoEmail.sql",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\sp_GetLeaveInfoEmail.sql",
+              "RelativeToolTip": "sp_GetLeaveInfoEmail.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-02T05:51:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DoAnHTQLNghiPhep\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:01:21.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmAdminDuyet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDuyet.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDuyet.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDuyet.Designer.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\DoAn_HTQLNghiPhep (2)\\DoAn_HTQLNghiPhep\\PresentationLayer\\folderAdmin\\frmAdminDuyet.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:43:15.553Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
